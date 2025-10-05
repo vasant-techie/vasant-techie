@@ -1,5 +1,4 @@
-# 👋 Hi there, I’m Vasanth (aka **vasant-techie**)
-
+# 👋 Hi there, I’m Vasanth Subramanian
 > “This too shall pass”
 
 I’m a Java Developer / Data Engineer, based in Coimbatore, Tamil Nadu, India.  
