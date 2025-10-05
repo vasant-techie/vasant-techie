@@ -26,9 +26,8 @@ Here’s what I’ve been wrangling lately:
 
 - Architecting and building data pipelines — from ingest to insight  
 - Designing microservices & resilient APIs  
-- Automating infrastructure and scaling workloads  
-- Diving into distributed systems, cluster management, and performance optimization  
-- Collaborating, learning, teaching—and breaking things (then fixing them)
+- Automating, Reverse Engineering 
+- Collaborating, learning, and breaking things (then fixing them)
 
 ---
 
