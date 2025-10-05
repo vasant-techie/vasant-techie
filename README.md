@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Vasanth (aka **vasant-techie**)
 
-> “This too shall pass” — a gentle reminder that change is constant (especially in tech 🚀)
+> “This too shall pass”
 
 I’m a Java Developer / Data Engineer, based in Coimbatore, Tamil Nadu, India.  
 
